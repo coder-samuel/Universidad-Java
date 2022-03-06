@@ -63,5 +63,4 @@ public class Computadora {
 				+ ", teclado=" + teclado + ", raton=" + raton + "]";
 	}
 	
-	
 }
